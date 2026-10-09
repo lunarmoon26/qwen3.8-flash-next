@@ -17,7 +17,7 @@ from the supplied reference checkout at commit
 ## Commands
 
 ```bash
-cd /home/haochuanzhang/Workspace/qwen3.8-flash-next
+cd ~/Workspace/qwen3.8-flash-next
 bash check.sh
 bash install.sh   # resumable; logs/setup-iq4.log
 bash start.sh     # foreground; Ctrl+C stops the server
